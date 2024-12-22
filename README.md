@@ -8,6 +8,8 @@ Lite Downloader is a simple Python-based tool designed to download files from an
 - Extracts filenames from the URL or `Content-Disposition` header.
 - Saves the file locally with the proper filename or a default name.
 
+### Test Ride
+- Go to `/dist` folder and open `Lite Downloader.exe`
 ---
 
 ## Prerequisites
